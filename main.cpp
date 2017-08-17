@@ -11,4 +11,5 @@ using namespace std;
 int main()
 {
     std::cerr<<"hash = "<<GIT_HASH<<", time = "<<COMPILE_TIME<<", branch = "<<GIT_BRANCH<<std::endl;
+    cout<<"11111111111122222222222223333333333\n";
 }
